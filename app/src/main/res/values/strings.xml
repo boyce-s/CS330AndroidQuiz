@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidQuz</string>
+
+    <string name="activ_title">Choose wisely:</string>
+    <string name="blue_label">Blue</string>
+    <string name="yellow_label">Yellow</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_blue">Blue</string>
+    <string name="return_button">Return</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_yellow">Yellow</string>
+</resources>
